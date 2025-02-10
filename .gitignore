@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+*.sqlite3
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+.env/
+
+# Директория с загруженными аудио
+downloads/
+
+# Логи
+*.log
+
+# Конфиденциальные файлы
+config.py
+
+# IDE
+.idea/
+.vscode/
+
+# Прочие
+*.bak
+*.swp
